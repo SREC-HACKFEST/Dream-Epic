@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SREC-Attendance</string>
+    <string name="welcome_to_srec_attendance" />
+    <string name="LOGIN" />
+</resources>

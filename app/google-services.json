@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645781666598",
+    "project_id": "srec-attendance",
+    "storage_bucket": "srec-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645781666598:android:90a9dd2e86545441395fe7",
+        "android_client_info": {
+          "package_name": "com.example.srec_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645781666598-vsmec1mgg6jb7mflsponk0dholpoh49k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW_k4rhfdpI3DXG58g1BhQZSMfNXlaQ9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645781666598-vsmec1mgg6jb7mflsponk0dholpoh49k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
